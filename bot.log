@@ -1,0 +1,27 @@
+2025-10-23 15:41:40,468 - INFO - Placing BUY MARKET order for BTCUSDT, quantity=0.001
+2025-10-23 15:41:41,609 - ERROR - Error placing market order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-10-23 16:06:17,764 - INFO - Placing BUY MARKET order for BTCUSDT, quantity=0.001
+2025-10-23 16:06:18,693 - ERROR - Error placing market order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-10-23 20:12:39,360 - INFO - Placing BUY MARKET order for BTCUSDT, quantity=0.001
+2025-10-23 20:12:40,027 - ERROR - Error placing market order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-10-23 20:12:59,963 - INFO - Placing BUY MARKET order for BTCUSDT, quantity=0.001
+2025-10-23 20:13:01,194 - ERROR - Error placing market order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-10-23 20:18:29,239 - INFO - Placing BUY MARKET order for BTCUSDT, quantity=100.0
+2025-10-23 20:18:30,877 - ERROR - Error placing market order: APIError(code=-2019): Margin is insufficient.
+2025-10-23 20:18:58,879 - INFO - Placing BUY MARKET order for BTCUSDT, quantity=0.001
+2025-10-23 20:18:59,793 - INFO - Market order placed successfully: {'orderId': 6758855164, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ9624ca2e3c20ed8198f1bc', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1761230939991}
+2025-10-23 20:29:23,117 - INFO - Placing BUY LIMIT order for BTCUSDT @ 60000.0 qty=0.001
+2025-10-23 20:29:25,080 - ERROR - Error placing limit order: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-10-23 20:31:19,863 - INFO - Placing BUY LIMIT order for BTCUSDT @ 60000.0 qty=0.002
+2025-10-23 20:31:21,841 - INFO - Limit order placed successfully: {'orderId': 6760236776, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ821e9cbdd4e60c4c9f7e4b', 'price': '60000.00', 'avgPrice': '0.00', 'origQty': '0.002', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1761231681953}
+2025-10-23 20:41:00,855 - INFO - Attempting BUY MARKET order: BTCUSDT, qty=0.002
+2025-10-23 20:41:03,014 - INFO - \u2705 Market order placed successfully: {'orderId': 6761330420, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ48dd986696d9b03ed0268d', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.002', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1761232263207}
+2025-10-23 20:41:35,768 - INFO - Attempting BUY LIMIT order: BTCUSDT, qty=0.002, price=60000.0
+2025-10-23 20:41:36,982 - INFO - \u2705 Limit order placed successfully: {'orderId': 6761397595, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJa6dca5c78a2ea6e4365519', 'price': '60000.00', 'avgPrice': '0.00', 'origQty': '0.002', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1761232297058}
+2025-10-23 21:19:57,590 - INFO - Attempting BUY MARKET order: TUTUSDT, qty=0.001
+2025-10-23 21:19:58,085 - ERROR - Binance API error: APIError(code=-1111): Precision is over the maximum defined for this asset.
+2025-10-23 21:20:37,482 - INFO - Attempting BUY MARKET order: BTCUSDT, qty=0.001
+2025-10-23 21:20:38,087 - INFO - \u2705 Market order placed successfully: {'orderId': 6765892429, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ3442c596186df9b5c2bffa', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1761234638212}
+2025-10-23 21:29:30,807 - INFO - Market order: BTCUSDT BUY 0.001
+2025-10-23 21:30:24,236 - INFO - Limit order: BTCUSDT BUY 0.002@60000.0
+2025-10-23 21:31:07,441 - INFO - Limit order: BTCUSDT BUY 0.003@70000.0
