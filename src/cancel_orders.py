@@ -28,3 +28,9 @@ def cancel_orders(symbol):
     except Exception as e:
         print("❌ Error:", e)
         logging.error(f"Cancel error: {e}")
+
+
+
+
+if __name__ == "__main__":
+    cancel_orders(input("Symbol: "))

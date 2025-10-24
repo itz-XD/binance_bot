@@ -45,3 +45,36 @@
 2025-10-24 09:11:07,272 - INFO - \u2705 Binance time sync successful.
 2025-10-24 09:11:21,117 - INFO - \u2705 Binance time sync successful.
 2025-10-24 09:33:11,887 - INFO - \u2705 Binance time sync successful.
+2025-10-24 09:52:53,923 - INFO - \u2705 Binance time sync successful.
+2025-10-24 09:54:29,418 - ERROR - OCO order error: 'Client' object has no attribute 'futures_create_oco_order'
+2025-10-24 10:19:15,632 - INFO - \u2705 Binance time sync successful.
+2025-10-24 10:24:08,451 - INFO - Market order: BTCUSDT BUY 0.01
+2025-10-24 10:25:52,827 - ERROR - Order error: APIError(code=-4024): Limit price can't be lower than 105678.56.
+2025-10-24 10:26:37,817 - INFO - Limit order: BTCUSDT SELL 0.01@106900.0
+2025-10-24 10:47:57,169 - INFO - \u2705 Binance time sync successful.
+2025-10-24 10:50:08,778 - INFO - \u2705 Binance time sync successful.
+2025-10-24 10:50:31,369 - INFO - \u2705 Binance time sync successful.
+2025-10-24 10:52:58,702 - INFO - \u2705 Binance time sync successful.
+2025-10-24 10:53:21,515 - INFO - \u2705 Binance time sync successful.
+2025-10-24 10:53:27,853 - INFO - \u2705 Binance time sync successful.
+2025-10-24 10:53:50,297 - INFO - \u2705 Binance time sync successful.
+2025-10-24 11:08:21,606 - INFO - \u2705 Binance time sync successful.
+2025-10-24 11:22:20,526 - INFO - \u2705 Binance time sync successful.
+2025-10-24 11:23:41,638 - INFO - \u2705 Binance time sync successful.
+2025-10-24 11:29:31,615 - INFO - \u2705 Binance time sync successful.
+2025-10-24 11:29:42,173 - INFO - Market order: BTCUSDT BUY 0.002
+2025-10-24 11:33:25,754 - INFO - \u2705 Binance time sync successful.
+2025-10-24 11:33:33,457 - INFO - \u2705 Binance time sync successful.
+2025-10-24 11:33:49,294 - ERROR - Order error: APIError(code=-4024): Limit price can't be lower than 105550.80.
+2025-10-24 11:33:57,919 - INFO - \u2705 Binance time sync successful.
+2025-10-24 11:34:31,097 - INFO - \u2705 Binance time sync successful.
+2025-10-24 11:34:50,728 - INFO - Limit order: BTCUSDT SELL 0.003@130579.0
+2025-10-24 11:35:55,831 - INFO - \u2705 Binance time sync successful.
+2025-10-24 11:36:00,281 - INFO - \u2705 Binance time sync successful.
+2025-10-24 11:37:16,536 - INFO - \u2705 Binance time sync successful.
+2025-10-24 11:37:22,784 - INFO - \u2705 Binance time sync successful.
+2025-10-24 11:38:31,508 - INFO - \u2705 Binance time sync successful.
+2025-10-24 11:38:39,669 - INFO - \u2705 Binance time sync successful.
+2025-10-24 11:39:10,821 - INFO - \u2705 Binance time sync successful.
+2025-10-24 11:39:52,173 - INFO - \u2705 Binance time sync successful.
+2025-10-24 11:40:10,892 - INFO - \u2705 Binance time sync successful.

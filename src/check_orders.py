@@ -27,3 +27,10 @@ def check_orders(symbol):
     except Exception as e:
         print("❌ Error:", e)
         logging.error(f"Check orders error: {e}")
+
+
+
+
+
+if __name__ == "__main__":
+    check_orders(input("Symbol: "))

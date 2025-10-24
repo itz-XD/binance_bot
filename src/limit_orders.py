@@ -64,3 +64,8 @@ def place_limit_order():
     except Exception as e:
         print("❌ Error:", e)
         logging.error(f"Order error: {e}")
+
+
+
+if __name__ == "__main__":
+    place_limit_order()

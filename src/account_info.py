@@ -34,3 +34,8 @@ def display_account_info():
     except Exception as e:
         print("❌ Error:", e)
         logging.error(f"Account info error: {e}")
+
+
+
+if __name__ == "__main__":
+    display_account_info()
