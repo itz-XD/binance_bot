@@ -25,3 +25,23 @@
 2025-10-23 21:29:30,807 - INFO - Market order: BTCUSDT BUY 0.001
 2025-10-23 21:30:24,236 - INFO - Limit order: BTCUSDT BUY 0.002@60000.0
 2025-10-23 21:31:07,441 - INFO - Limit order: BTCUSDT BUY 0.003@70000.0
+2025-10-23 23:01:17,690 - INFO - Limit order: btcusdt SELL 0.003@120000.0
+2025-10-23 23:03:04,990 - INFO - Market order: btcusdt BUY 0.11
+2025-10-23 23:05:08,685 - INFO - Limit order: btcusdt BUY 0.002@110000.0
+2025-10-24 07:53:31,313 - INFO - Market order: btcusdt SELL 0.003
+2025-10-24 07:54:24,281 - INFO - Limit order: btcusdt SELL 0.004@123000.0
+2025-10-24 07:55:12,645 - ERROR - Binance API error: APIError(code=-1021): Timestamp for this request is outside of the recvWindow.
+2025-10-24 08:09:02,860 - INFO - Market order: BTCUSDC BUY 0.001
+2025-10-24 08:48:46,487 - INFO - \u2705 Binance time sync successful.
+2025-10-24 08:52:20,962 - ERROR - Order error: APIError(code=-4005): Quantity greater than max quantity.
+2025-10-24 08:52:42,121 - ERROR - Order error: APIError(code=-4005): Quantity greater than max quantity.
+2025-10-24 08:52:59,082 - ERROR - Order error: APIError(code=-4005): Quantity greater than max quantity.
+2025-10-24 08:53:45,641 - INFO - Market order: ETHUSDT BUY 0.2
+2025-10-24 08:54:59,587 - INFO - \u2705 Binance time sync successful.
+2025-10-24 09:10:04,398 - INFO - \u2705 Binance time sync successful.
+2025-10-24 09:10:16,224 - ERROR - Check orders error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-10-24 09:10:38,933 - ERROR - Order error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-10-24 09:10:55,881 - ERROR - Check orders error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-10-24 09:11:07,272 - INFO - \u2705 Binance time sync successful.
+2025-10-24 09:11:21,117 - INFO - \u2705 Binance time sync successful.
+2025-10-24 09:33:11,887 - INFO - \u2705 Binance time sync successful.
